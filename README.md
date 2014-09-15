@@ -6,12 +6,19 @@ Using LibSVM , we have performed classification on the dataset using SVM and com
 ---------------------Content of Code Folder-----------------------
 
 blrObjFunction.m (binary logistic regression)
+
 blrPredict.m
+
 blrNewtonRaphsonLearn.m (binary logistic regression using Newton Raphson method with Hessian Matrix)
+
 mlrObjFunction.m (multi class logistic rgression with gradient descent)
+
 mlrPredict.m (multi cass logistic regression using Newton Raphson method with Hessian Matrix)
+
 mlrNewtonRaphson.m
+
 script.m
+
 params.mat (all result variables)
 
 ---------------------Content of params.mat-------------------------
