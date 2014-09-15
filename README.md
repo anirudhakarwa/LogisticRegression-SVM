@@ -24,12 +24,19 @@ params.mat (all result variables)
 ---------------------Content of params.mat-------------------------
 
 W_blr (weight vector for BLR Gradient Descent)
+
 W_blr_Newton (weight vector for BLR Newton Raphson)
+
 W_mlr (weight vector for MLR Gradient Descent)
+
 W_mlr_Newton (weight vector for MLR Newton Raphson)
+
 model_linear (SVM trained model for Linear Kernel)
+
 model_rbf_1 (SVM trained model for Radial Basis, Gamma value = 1, Other Parameters = default)
+
 model_rbf_default (SVM trained model for Radial Basis, Gamma value = default, Other Parameters = default)
+
 model_rbf_C (SVM trained model for Radial Basis, Gamma value = default, C = 80 (best value))
 
 ---------------------Content of Report Folder-------------------------
